@@ -32,9 +32,12 @@ More functionallity to be added.
 
 That's it! You should now have a working Twitter Bot. 
 
-*THIS IS NOT A DEPLOYABLE VERSION....IN The coming weeks I'll be making changes to refine and ensure it is closer to a deployable solution. i.e: 
-      * Docker Deployment 
-      * Virtual Environment Setup 
+*This is NOT a deployabl version....In The coming weeks I'll be making changes to refine and ensure it is closer to a deployable solution. i.e*
+
+ * Docker Deployment 
+ * Virtual Environment Setup 
+ 
+ 
  
  My hope is that by sharing my progress... I Can gather feedback and work towards a one-size fits all solution. 
 
